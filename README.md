@@ -97,7 +97,6 @@
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
-- [Ansh Tripathi](https://github.com/Anshtripathi079/Anshtripathi079)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
 - [Kiho](https://github.com/monkindey/monkindey)
 - [Marton](https://github.com/martonlederer/martonlederer)
